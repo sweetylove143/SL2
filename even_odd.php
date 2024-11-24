@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
         while (true) {
             $input = readline("Enter a number (type 'exit' to quit): ");
             if ($input === 'exit') {
@@ -13,4 +13,4 @@
                 echo "Please enter a valid number or 'exit' to terminate.\n";
             }
         }
-        ?> -->
+        ?>
